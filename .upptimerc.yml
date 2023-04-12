@@ -17,11 +17,6 @@ status-website:
   name: Collato Health Check
   introTitle: "Collato Health Check"
   introMessage: Lorem ipsum
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
