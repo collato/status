@@ -1,41 +1,20 @@
 [
   {
-    "name": "Pistachio",
+    "name": "Collato Application",
     "url": "https://app.collato.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/app.collato.com.ico",
-    "slug": "pistachio",
+    "slug": "collato-application",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 463,
-    "timeDay": 465,
-    "timeWeek": 463,
-    "timeMonth": 463,
-    "timeYear": 463,
+    "time": 308,
+    "timeDay": 308,
+    "timeWeek": 308,
+    "timeMonth": 308,
+    "timeYear": 308,
     "dailyMinutesDown": {}
-  },
-  {
-    "name": "Caramel Swirl",
-    "url": "https://api.collato.com/health-check",
-    "icon": "https://icons.duckduckgo.com/ip3/api.collato.com.ico",
-    "slug": "caramel-swirl",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 599,
-    "timeDay": 705,
-    "timeWeek": 599,
-    "timeMonth": 599,
-    "timeYear": 599,
-    "dailyMinutesDown": {
-      "2023-04-13": 853,
-      "2023-04-12": 695
-    }
   }
 ]
