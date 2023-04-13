@@ -10,16 +10,16 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 477,
-    "timeDay": 477,
-    "timeWeek": 477,
-    "timeMonth": 477,
-    "timeYear": 477,
+    "time": 463,
+    "timeDay": 465,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
     "dailyMinutesDown": {}
   },
   {
     "name": "Caramel Swirl",
-    "url": "https://api.collato.com/healtch-check",
+    "url": "https://api.collato.com/health-check",
     "icon": "https://icons.duckduckgo.com/ip3/api.collato.com.ico",
     "slug": "caramel-swirl",
     "status": "down",
@@ -28,13 +28,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 575,
-    "timeDay": 575,
-    "timeWeek": 575,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 599,
+    "timeDay": 705,
+    "timeWeek": 599,
+    "timeMonth": 599,
+    "timeYear": 599,
     "dailyMinutesDown": {
-      "2023-04-13": 15,
+      "2023-04-13": 853,
       "2023-04-12": 695
     }
   }
