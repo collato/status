@@ -9,8 +9,8 @@ sites:
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  baseUrl: /status
-  # cname: status.collato.com
+  # baseUrl: /status
+  cname: status.collato.com
   logoUrl: https://pistachio-public-assets.s3.eu-central-1.amazonaws.com/collato-logo.png
   name: Collato Status
   faviconSvg: https://pistachio-public-assets.s3.eu-central-1.amazonaws.com/logo-icon-black.svg
